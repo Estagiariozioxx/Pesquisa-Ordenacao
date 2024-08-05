@@ -1,4 +1,4 @@
-# Trabalho de Faculdade - Ordenações e Buscas
+#  Ordenações e Buscas
 
 Este repositório contém um trabalho desenvolvido durante a faculdade, focado em diversas técnicas de ordenação e busca utilizando listas encadeadas e arquivos texto. O objetivo principal é calcular o tempo de execução de cada técnica de ordenação para diferentes tipos de arquivos: ordenado, aleatório e invertido.
 
@@ -7,7 +7,7 @@ Este repositório contém um trabalho desenvolvido durante a faculdade, focado e
 O trabalho consiste nos seguintes componentes principais:
 
 - **Ordenações**: Implementação de vários algoritmos de ordenação.
-- **Buscas**: Métodos de busca em listas encadeadas.
+- **Buscas**: Métodos de busca em listas encadeadas e arquivos.
 - **Medição de Tempo**: Cálculo do tempo de execução de cada técnica de ordenação em diferentes tipos de arquivos.
 
 ## Estrutura do Projeto
